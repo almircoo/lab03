@@ -1,0 +1,17 @@
+body{
+    background-color: #001d25;
+    text-align: justify;
+    color: #ccc;
+}
+h1 em{
+    color: #f85959;
+}
+h2{
+    color: aliceblue;
+}
+em{
+    color:aquamarine;
+}
+strong{
+    color: #40c17b;
+}
